@@ -1,4 +1,5 @@
 ## Homework
+## Homework
 
 > Note: sometimes your answer doesn't match one of 
 > the options exactly. That's fine. 
@@ -14,11 +15,10 @@ Download it from <a href='https://raw.githubusercontent.com/alexeygrigorev/datas
 You can do it with wget:
 
 ```bash
-wget https://raw.githubusercontent.com/alexeygrigorev/datasets/master/car_fuel_efficiency.csv
+wget https://github.com/alexeygrigorev/datasets/raw/refs/heads/master/jamb_exam_results.csv
 ```
 
-The goal of this homework is to create a regression model for predicting the car fuel efficiency (column `'fuel_efficiency_mpg'`).
-
+The goal of this homework is to create a regression model for predicting the performance of students on a standardized test (column `'JAMB_Score'`).
 
 
 ### Preparing the dataset 

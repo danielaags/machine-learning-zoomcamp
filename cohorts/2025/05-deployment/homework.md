@@ -3,6 +3,11 @@
 > Note: sometimes your answer doesn't match one of the options exactly. 
 > That's fine. 
 > Select the option that's closest to your solution.
+> If it's exactly in between two options, select the higher value.
+
+We recommend using python 3.12 or 3.13 in this homework.
+
+In this homework, we're going to continue working with the lead scoring dataset. You don't need the dataset: we will provide the model for you.
 
 We recommend using python 3.12 or 3.13 in this homework.
 
@@ -14,17 +19,9 @@ In this homework, we're going to continue working with the lead scoring dataset.
 * Install `uv`
 * What's the version of uv you installed?
 * Use `--version` to find out
-`uv --version`
-`uv 0.6.3 (a0b9f22a2 2025-02-24)`
 
 
 ## Initialize an empty uv project
-
-You should create an empty folder for homework
-and do it there. 
-
-
-## Question 2
 
 * Use uv to install Scikit-Learn version 1.6.1 
 * What's the first hash for Scikit-Learn you get in the lock file?
